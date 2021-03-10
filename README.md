@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sterly Deracy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Operating Systems, AngularJS**
+- 🌱 I’m currently learning about **Operating Systems and AngularJS**
 
 - 💬 Ask me about **Java!!**
 
