@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **SDeracy@gmail.com**
 
-- 📄 Know about my experiences <a href = "http://www.sderacy.com" target="_blank">here</a>
+- 📄 Learn more about my experiences at **www.sderacy.com**!
 
 - ⚡ Fun fact **I'm an ordained reverend! I also play tennis :)**
 
