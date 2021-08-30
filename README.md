@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sterly Deracy</h1>
 <h3 align="center">Full Stack Developer, Mobile App enthusiast</h3>
 
-- 🌱 I’m currently learning about **Operating Systems and AngularJS**
+- 🌱 I’m currently learning about **ReactJS**
 
 - 💬 Ask me about **Java!!**
 
 - 📫 How to reach me **SDeracy@gmail.com**
 
-- 📄 Learn more about my experiences at **www.sderacy.com**!
+- 📄 Learn more about my qualifications **[here](https://www.sderacy.com)**!
 
 - ⚡ Fun fact **I'm an ordained reverend! I also play tennis :)**
 
