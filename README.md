@@ -9,7 +9,7 @@
 
 - 📄 Learn more about my qualifications **[here](https://www.sderacy.com)**!
 
-- ⚡ Fun fact **I'm an ordained reverend! I also play tennis :)**
+- ⚡ Fun fact **I make playlists and play tennis!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
