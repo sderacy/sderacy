@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sterly Deracy</h1>
 <h3 align="center">Full Stack Developer, Mobile App enthusiast</h3>
 
-- 🌱 I’m currently learning about **ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Java!!**
 
