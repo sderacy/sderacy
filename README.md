@@ -5,11 +5,11 @@
 
 - 💬 Ask me about **Java!!**
 
-- 📫 How to reach me **SDeracy@gmail.com**
+- 📫 How to reach me: **SDeracy@gmail.com**
 
 - 📄 Learn more about my qualifications **[here](https://www.sderacy.com)**!
 
-- ⚡ Fun fact **I make playlists and play tennis!**
+- ⚡ Fun fact: **I make playlists and play tennis!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
