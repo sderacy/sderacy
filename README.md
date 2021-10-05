@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sterlyderacy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sterlyderacy/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sterlyderacy/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/sterlyderacy/" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
