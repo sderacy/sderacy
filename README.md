@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Java!!**
+- 💬 Ask me about **Java!**
 
 - 📫 How to reach me: **SDeracy@gmail.com**
 
