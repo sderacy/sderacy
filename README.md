@@ -34,6 +34,8 @@ alt="typescript" width="40" height="40"/> </a>
 alt="postgres" width="40" height="40"/> </a>
 <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"
 alt="typescript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+alt="typescript" width="40" height="40"/> </a>
   </span>
 </p>
 
