@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **SDeracy@gmail.com**
 
-- 📄 Learn more about my qualifications **<a href="https://www.sderacy.com" target="_blank" rel="noopener noreferrer">here!</a>**
+- 📄 Learn more about my qualifications **<a href="https://read.cv/sderacy" target="_blank" rel="noopener noreferrer">here!</a>**
 
 - ⚡ Fun fact: **I make playlists and play tennis!**
 
