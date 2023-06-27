@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **ReactJS and TypeScript**
 
-- 💬 Ask me about **Java!**
-
 - 📫 How to reach me: **SDeracy@gmail.com**
 
 - 📄 Learn more about my qualifications **<a href="https://read.cv/sderacy" target="_blank" rel="noopener noreferrer">here!</a>**
