@@ -9,6 +9,6 @@
 
 - ⚡ Fun fact: **I make playlists and play tennis!**
 
-<h3 align="left">Connect with me on LinkedIn!</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sterlyderacy/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/sterlyderacy/" height="50" width="50" /></a>
+<h3>Connect with me on LinkedIn!</h3>
+<p>
+<a href="https://www.linkedin.com/in/sterlyderacy/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/sterlyderacy/" height="50" width="50" /></a>
